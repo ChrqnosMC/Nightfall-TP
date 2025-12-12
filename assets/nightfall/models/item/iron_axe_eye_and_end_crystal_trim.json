@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_axe",
+    "layer1": "nightfall:trims/items/axe_trim/eye_end_crystal"
+  }
+}
+

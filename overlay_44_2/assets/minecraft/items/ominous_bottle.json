@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "entries": [
+            {
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "nightfall:item/dreaming_bottle"
+                },
+                "threshold": 1
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/ominous_bottle"
+        },
+        "property": "minecraft:custom_model_data"
+    }
+}

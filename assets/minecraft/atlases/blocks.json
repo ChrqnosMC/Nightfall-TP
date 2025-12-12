@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:paletted_permutations",
+      "textures": [
+        "minecraft:trims/items/boots_trim",
+        "minecraft:trims/items/chestplate_trim",
+        "minecraft:trims/items/helmet_trim",
+        "minecraft:trims/items/leggings_trim"
+      ],
+      "palette_key": "minecraft:trims/color_palettes/trim_palette",
+      "permutations": {
+        "armadillo_scute": "nightfall:trims/color_palettes/armadillo_scute",
+		    "blaze_rod": "nightfall:trims/color_palettes/blaze_rod",
+        "bone": "nightfall:trims/color_palettes/bone",
+        "breeze_rod": "nightfall:trims/color_palettes/breeze_rod",
+        "coal": "nightfall:trims/color_palettes/coal",
+        "dragon_breath": "nightfall:trims/color_palettes/dragon_breath",
+        "echo_shard": "nightfall:trims/color_palettes/echo_shard",
+        "end_crystal": "nightfall:trims/color_palettes/end_crystal",
+        "ender_pearl": "nightfall:trims/color_palettes/ender_pearl",
+        "experience_bottle": "nightfall:trims/color_palettes/experience_bottle",
+        "fire_charge": "nightfall:trims/color_palettes/fire_charge",
+        "glow_ink": "nightfall:trims/color_palettes/glow_ink",
+        "glowstone": "nightfall:trims/color_palettes/glowstone",
+        "gunpowder": "nightfall:trims/color_palettes/gunpowder",
+        "heart_of_the_sea": "nightfall:trims/color_palettes/heart_of_the_sea",
+        "honeycomb": "nightfall:trims/color_palettes/honeycomb",
+        "leather": "nightfall:trims/color_palettes/leather",
+        "nautilus": "nightfall:trims/color_palettes/nautilus",
+        "nether_brick": "nightfall:trims/color_palettes/nether_brick",
+        "nether_star": "nightfall:trims/color_palettes/nether_star",
+        "netherite_scrap": "nightfall:trims/color_palettes/netherite_scrap",
+        "phantom_membrane": "nightfall:trims/color_palettes/phantom_membrane",
+        "prismarine": "nightfall:trims/color_palettes/prismarine",
+        "prismarine_crystals": "nightfall:trims/color_palettes/prismarine_crystals",
+        "purpur": "nightfall:trims/color_palettes/purpur",
+        "rabbit_hide": "nightfall:trims/color_palettes/rabbit_hide",
+        "slime": "nightfall:trims/color_palettes/slime",
+        "turtle_scute": "nightfall:trims/color_palettes/turtle_scute"
+      }
+    }
+  ]
+}

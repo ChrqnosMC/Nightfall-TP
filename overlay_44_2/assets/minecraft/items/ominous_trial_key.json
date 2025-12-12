@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "entries": [
+            {
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "nightfall:item/ominous_bastion_key"
+                },
+                "threshold": 1
+            },
+            {
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "nightfall:item/ominous_city_key"
+                },
+                "threshold": 2
+            },
+            {
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "nightfall:item/ominous_woodland_key"
+                },
+                "threshold": 4
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/ominous_trial_key"
+        },
+        "property": "minecraft:custom_model_data"
+    }
+}

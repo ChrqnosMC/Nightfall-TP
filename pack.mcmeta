@@ -1,0 +1,61 @@
+{
+	"pack": {
+		"pack_format": 75,
+    	"supported_formats": [34,75],
+		"min_format": [34,0],
+		"max_format": [75,0],
+		"description": "Better Tricky Trials"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"formats": [34,35],
+				"min_format": [34,0],
+				"max_format": [35,0],
+				"directory": "overlay_34"
+			},
+			{
+				"formats": [34,36],
+				"min_format": [34,0],
+				"max_format": [36,0],
+				"directory": "overlay_34_2"
+			},
+			{
+				"formats": [34,43],
+				"min_format": [34,0],
+				"max_format": [43,0],
+				"directory": "overlay_34_3"
+			},
+			{
+				"formats": [36,43],
+				"min_format": [36,0],
+				"max_format": [43,0],
+				"directory": "overlay_36"
+			},
+			{
+				"formats": [37,43],
+				"min_format": [37,0],
+				"max_format": [43,0],
+				"directory": "overlay_37"
+			},
+			{
+				"formats": [44,64],
+				"min_format": [44,0],
+				"max_format": [64,0],
+				"directory": "overlay_44"
+			},
+            {
+				"formats": [44,75],
+				"min_format": [44,0],
+				"max_format": [75,0],
+				"directory": "overlay_44_2"
+			},
+			{
+				"formats": [65,75],
+				"min_format": [65,0],
+				"max_format": [75,0],
+				"directory": "overlay_65"
+			}
+        ]
+    }
+}

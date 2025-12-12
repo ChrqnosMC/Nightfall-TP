@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_hoe",
+    "layer1": "nightfall:trims/items/hoe_trim/raiser_nether_star"
+  }
+}
+

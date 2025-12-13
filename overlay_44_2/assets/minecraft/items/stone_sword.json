@@ -9,275 +9,275 @@
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_quartz_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_quartz_trim"
               },
               "when": "minecraft:quartz"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_iron_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_iron_trim"
               },
               "when": "minecraft:iron"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_netherite_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_netherite_trim"
               },
               "when": "minecraft:netherite"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_redstone_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_redstone_trim"
               },
               "when": "minecraft:redstone"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_copper_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_copper_trim"
               },
               "when": "minecraft:copper"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_gold_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_gold_trim"
               },
               "when": "minecraft:gold"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_emerald_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_emerald_trim"
               },
               "when": "minecraft:emerald"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_diamond_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_diamond_trim"
               },
               "when": "minecraft:diamond"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_lapis_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_lapis_trim"
               },
               "when": "minecraft:lapis"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_amethyst_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_amethyst_trim"
               },
               "when": "minecraft:amethyst"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_resin_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_resin_trim"
               },
               "when": "minecraft:resin"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_armadillo_scute_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_armadillo_scute_trim"
               },
-              "when": "more_tool_trim:armadillo_scute"
+              "when": "nightfall:armadillo_scute"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_blaze_rod_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_blaze_rod_trim"
               },
-              "when": "more_tool_trim:blaze_rod"
+              "when": "nightfall:blaze_rod"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_bone_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_bone_trim"
               },
-              "when": "more_tool_trim:bone"
+              "when": "nightfall:bone"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_breeze_rod_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_breeze_rod_trim"
               },
-              "when": "more_tool_trim:breeze_rod"
+              "when": "nightfall:breeze_rod"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_coal_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_coal_trim"
               },
-              "when": "more_tool_trim:coal"
+              "when": "nightfall:coal"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_dragon_breath_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_dragon_breath_trim"
               },
-              "when": "more_tool_trim:dragon_breath"
+              "when": "nightfall:dragon_breath"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_echo_shard_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_echo_shard_trim"
               },
-              "when": "more_tool_trim:echo_shard"
+              "when": "nightfall:echo_shard"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_end_crystal_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_end_crystal_trim"
               },
-              "when": "more_tool_trim:end_crystal"
+              "when": "nightfall:end_crystal"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_ender_pearl_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_ender_pearl_trim"
               },
-              "when": "more_tool_trim:ender_pearl"
+              "when": "nightfall:ender_pearl"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_experience_bottle_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_experience_bottle_trim"
               },
-              "when": "more_tool_trim:experience_bottle"
+              "when": "nightfall:experience_bottle"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_fire_charge_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_fire_charge_trim"
               },
-              "when": "more_tool_trim:fire_charge"
+              "when": "nightfall:fire_charge"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_glow_ink_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_glow_ink_trim"
               },
-              "when": "more_tool_trim:glow_ink"
+              "when": "nightfall:glow_ink"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_glowstone_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_glowstone_trim"
               },
-              "when": "more_tool_trim:glowstone"
+              "when": "nightfall:glowstone"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_gunpowder_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_gunpowder_trim"
               },
-              "when": "more_tool_trim:gunpowder"
+              "when": "nightfall:gunpowder"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_heart_of_the_sea_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_heart_of_the_sea_trim"
               },
-              "when": "more_tool_trim:heart_of_the_sea"
+              "when": "nightfall:heart_of_the_sea"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_honeycomb_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_honeycomb_trim"
               },
-              "when": "more_tool_trim:honeycomb"
+              "when": "nightfall:honeycomb"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_leather_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_leather_trim"
               },
-              "when": "more_tool_trim:leather"
+              "when": "nightfall:leather"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_nautilus_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_nautilus_trim"
               },
-              "when": "more_tool_trim:nautilus"
+              "when": "nightfall:nautilus"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_nether_brick_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_nether_brick_trim"
               },
-              "when": "more_tool_trim:nether_brick"
+              "when": "nightfall:nether_brick"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_nether_star_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_nether_star_trim"
               },
-              "when": "more_tool_trim:nether_star"
+              "when": "nightfall:nether_star"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_netherite_scrap_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_netherite_scrap_trim"
               },
-              "when": "more_tool_trim:netherite_scrap"
+              "when": "nightfall:netherite_scrap"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_phantom_membrane_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_phantom_membrane_trim"
               },
-              "when": "more_tool_trim:phantom_membrane"
+              "when": "nightfall:phantom_membrane"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_prismarine_crystals_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_prismarine_crystals_trim"
               },
-              "when": "more_tool_trim:prismarine_crystals"
+              "when": "nightfall:prismarine_crystals"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_prismarine_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_prismarine_trim"
               },
-              "when": "more_tool_trim:prismarine"
+              "when": "nightfall:prismarine"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_purpur_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_purpur_trim"
               },
-              "when": "more_tool_trim:purpur"
+              "when": "nightfall:purpur"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_rabbit_hide_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_rabbit_hide_trim"
               },
-              "when": "more_tool_trim:rabbit_hide"
+              "when": "nightfall:rabbit_hide"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_slime_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_slime_trim"
               },
-              "when": "more_tool_trim:slime"
+              "when": "nightfall:slime"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_sentry_and_turtle_scute_trim"
+                "model": "nightfall:item/stone_sword_sentry_and_turtle_scute_trim"
               },
-              "when": "more_tool_trim:turtle_scute"
+              "when": "nightfall:turtle_scute"
             }
           ],
           "fallback": {
@@ -295,275 +295,275 @@
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_quartz_trim"
+                "model": "nightfall:item/stone_sword_vex_and_quartz_trim"
               },
               "when": "minecraft:quartz"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_iron_trim"
+                "model": "nightfall:item/stone_sword_vex_and_iron_trim"
               },
               "when": "minecraft:iron"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_netherite_trim"
+                "model": "nightfall:item/stone_sword_vex_and_netherite_trim"
               },
               "when": "minecraft:netherite"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_redstone_trim"
+                "model": "nightfall:item/stone_sword_vex_and_redstone_trim"
               },
               "when": "minecraft:redstone"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_copper_trim"
+                "model": "nightfall:item/stone_sword_vex_and_copper_trim"
               },
               "when": "minecraft:copper"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_gold_trim"
+                "model": "nightfall:item/stone_sword_vex_and_gold_trim"
               },
               "when": "minecraft:gold"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_emerald_trim"
+                "model": "nightfall:item/stone_sword_vex_and_emerald_trim"
               },
               "when": "minecraft:emerald"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_diamond_trim"
+                "model": "nightfall:item/stone_sword_vex_and_diamond_trim"
               },
               "when": "minecraft:diamond"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_lapis_trim"
+                "model": "nightfall:item/stone_sword_vex_and_lapis_trim"
               },
               "when": "minecraft:lapis"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_amethyst_trim"
+                "model": "nightfall:item/stone_sword_vex_and_amethyst_trim"
               },
               "when": "minecraft:amethyst"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_resin_trim"
+                "model": "nightfall:item/stone_sword_vex_and_resin_trim"
               },
               "when": "minecraft:resin"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_armadillo_scute_trim"
+                "model": "nightfall:item/stone_sword_vex_and_armadillo_scute_trim"
               },
-              "when": "more_tool_trim:armadillo_scute"
+              "when": "nightfall:armadillo_scute"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_blaze_rod_trim"
+                "model": "nightfall:item/stone_sword_vex_and_blaze_rod_trim"
               },
-              "when": "more_tool_trim:blaze_rod"
+              "when": "nightfall:blaze_rod"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_bone_trim"
+                "model": "nightfall:item/stone_sword_vex_and_bone_trim"
               },
-              "when": "more_tool_trim:bone"
+              "when": "nightfall:bone"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_breeze_rod_trim"
+                "model": "nightfall:item/stone_sword_vex_and_breeze_rod_trim"
               },
-              "when": "more_tool_trim:breeze_rod"
+              "when": "nightfall:breeze_rod"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_coal_trim"
+                "model": "nightfall:item/stone_sword_vex_and_coal_trim"
               },
-              "when": "more_tool_trim:coal"
+              "when": "nightfall:coal"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_dragon_breath_trim"
+                "model": "nightfall:item/stone_sword_vex_and_dragon_breath_trim"
               },
-              "when": "more_tool_trim:dragon_breath"
+              "when": "nightfall:dragon_breath"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_echo_shard_trim"
+                "model": "nightfall:item/stone_sword_vex_and_echo_shard_trim"
               },
-              "when": "more_tool_trim:echo_shard"
+              "when": "nightfall:echo_shard"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_end_crystal_trim"
+                "model": "nightfall:item/stone_sword_vex_and_end_crystal_trim"
               },
-              "when": "more_tool_trim:end_crystal"
+              "when": "nightfall:end_crystal"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_ender_pearl_trim"
+                "model": "nightfall:item/stone_sword_vex_and_ender_pearl_trim"
               },
-              "when": "more_tool_trim:ender_pearl"
+              "when": "nightfall:ender_pearl"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_experience_bottle_trim"
+                "model": "nightfall:item/stone_sword_vex_and_experience_bottle_trim"
               },
-              "when": "more_tool_trim:experience_bottle"
+              "when": "nightfall:experience_bottle"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_fire_charge_trim"
+                "model": "nightfall:item/stone_sword_vex_and_fire_charge_trim"
               },
-              "when": "more_tool_trim:fire_charge"
+              "when": "nightfall:fire_charge"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_glow_ink_trim"
+                "model": "nightfall:item/stone_sword_vex_and_glow_ink_trim"
               },
-              "when": "more_tool_trim:glow_ink"
+              "when": "nightfall:glow_ink"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_glowstone_trim"
+                "model": "nightfall:item/stone_sword_vex_and_glowstone_trim"
               },
-              "when": "more_tool_trim:glowstone"
+              "when": "nightfall:glowstone"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_gunpowder_trim"
+                "model": "nightfall:item/stone_sword_vex_and_gunpowder_trim"
               },
-              "when": "more_tool_trim:gunpowder"
+              "when": "nightfall:gunpowder"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_heart_of_the_sea_trim"
+                "model": "nightfall:item/stone_sword_vex_and_heart_of_the_sea_trim"
               },
-              "when": "more_tool_trim:heart_of_the_sea"
+              "when": "nightfall:heart_of_the_sea"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_honeycomb_trim"
+                "model": "nightfall:item/stone_sword_vex_and_honeycomb_trim"
               },
-              "when": "more_tool_trim:honeycomb"
+              "when": "nightfall:honeycomb"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_leather_trim"
+                "model": "nightfall:item/stone_sword_vex_and_leather_trim"
               },
-              "when": "more_tool_trim:leather"
+              "when": "nightfall:leather"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_nautilus_trim"
+                "model": "nightfall:item/stone_sword_vex_and_nautilus_trim"
               },
-              "when": "more_tool_trim:nautilus"
+              "when": "nightfall:nautilus"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_nether_brick_trim"
+                "model": "nightfall:item/stone_sword_vex_and_nether_brick_trim"
               },
-              "when": "more_tool_trim:nether_brick"
+              "when": "nightfall:nether_brick"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_nether_star_trim"
+                "model": "nightfall:item/stone_sword_vex_and_nether_star_trim"
               },
-              "when": "more_tool_trim:nether_star"
+              "when": "nightfall:nether_star"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_netherite_scrap_trim"
+                "model": "nightfall:item/stone_sword_vex_and_netherite_scrap_trim"
               },
-              "when": "more_tool_trim:netherite_scrap"
+              "when": "nightfall:netherite_scrap"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_phantom_membrane_trim"
+                "model": "nightfall:item/stone_sword_vex_and_phantom_membrane_trim"
               },
-              "when": "more_tool_trim:phantom_membrane"
+              "when": "nightfall:phantom_membrane"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_prismarine_crystals_trim"
+                "model": "nightfall:item/stone_sword_vex_and_prismarine_crystals_trim"
               },
-              "when": "more_tool_trim:prismarine_crystals"
+              "when": "nightfall:prismarine_crystals"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_prismarine_trim"
+                "model": "nightfall:item/stone_sword_vex_and_prismarine_trim"
               },
-              "when": "more_tool_trim:prismarine"
+              "when": "nightfall:prismarine"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_purpur_trim"
+                "model": "nightfall:item/stone_sword_vex_and_purpur_trim"
               },
-              "when": "more_tool_trim:purpur"
+              "when": "nightfall:purpur"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_rabbit_hide_trim"
+                "model": "nightfall:item/stone_sword_vex_and_rabbit_hide_trim"
               },
-              "when": "more_tool_trim:rabbit_hide"
+              "when": "nightfall:rabbit_hide"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_slime_trim"
+                "model": "nightfall:item/stone_sword_vex_and_slime_trim"
               },
-              "when": "more_tool_trim:slime"
+              "when": "nightfall:slime"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_vex_and_turtle_scute_trim"
+                "model": "nightfall:item/stone_sword_vex_and_turtle_scute_trim"
               },
-              "when": "more_tool_trim:turtle_scute"
+              "when": "nightfall:turtle_scute"
             }
           ],
           "fallback": {
@@ -581,147 +581,147 @@
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_quartz_trim"
+                "model": "nightfall:item/stone_sword_wild_and_quartz_trim"
               },
               "when": "minecraft:quartz"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_iron_trim"
+                "model": "nightfall:item/stone_sword_wild_and_iron_trim"
               },
               "when": "minecraft:iron"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_netherite_trim"
+                "model": "nightfall:item/stone_sword_wild_and_netherite_trim"
               },
               "when": "minecraft:netherite"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_redstone_trim"
+                "model": "nightfall:item/stone_sword_wild_and_redstone_trim"
               },
               "when": "minecraft:redstone"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_copper_trim"
+                "model": "nightfall:item/stone_sword_wild_and_copper_trim"
               },
               "when": "minecraft:copper"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_gold_trim"
+                "model": "nightfall:item/stone_sword_wild_and_gold_trim"
               },
               "when": "minecraft:gold"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_emerald_trim"
+                "model": "nightfall:item/stone_sword_wild_and_emerald_trim"
               },
               "when": "minecraft:emerald"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_diamond_trim"
+                "model": "nightfall:item/stone_sword_wild_and_diamond_trim"
               },
               "when": "minecraft:diamond"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_lapis_trim"
+                "model": "nightfall:item/stone_sword_wild_and_lapis_trim"
               },
               "when": "minecraft:lapis"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_amethyst_trim"
+                "model": "nightfall:item/stone_sword_wild_and_amethyst_trim"
               },
               "when": "minecraft:amethyst"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_resin_trim"
+                "model": "nightfall:item/stone_sword_wild_and_resin_trim"
               },
               "when": "minecraft:resin"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_armadillo_scute_trim"
+                "model": "nightfall:item/stone_sword_wild_and_armadillo_scute_trim"
               },
-              "when": "more_tool_trim:armadillo_scute"
+              "when": "nightfall:armadillo_scute"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_blaze_rod_trim"
+                "model": "nightfall:item/stone_sword_wild_and_blaze_rod_trim"
               },
-              "when": "more_tool_trim:blaze_rod"
+              "when": "nightfall:blaze_rod"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_bone_trim"
+                "model": "nightfall:item/stone_sword_wild_and_bone_trim"
               },
-              "when": "more_tool_trim:bone"
+              "when": "nightfall:bone"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_breeze_rod_trim"
+                "model": "nightfall:item/stone_sword_wild_and_breeze_rod_trim"
               },
-              "when": "more_tool_trim:breeze_rod"
+              "when": "nightfall:breeze_rod"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_coal_trim"
+                "model": "nightfall:item/stone_sword_wild_and_coal_trim"
               },
-              "when": "more_tool_trim:coal"
+              "when": "nightfall:coal"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_dragon_breath_trim"
+                "model": "nightfall:item/stone_sword_wild_and_dragon_breath_trim"
               },
-              "when": "more_tool_trim:dragon_breath"
+              "when": "nightfall:dragon_breath"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_echo_shard_trim"
+                "model": "nightfall:item/stone_sword_wild_and_echo_shard_trim"
               },
-              "when": "more_tool_trim:echo_shard"
+              "when": "nightfall:echo_shard"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_end_crystal_trim"
+                "model": "nightfall:item/stone_sword_wild_and_end_crystal_trim"
               },
-              "when": "more_tool_trim:end_crystal"
+              "when": "nightfall:end_crystal"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_ender_pearl_trim"
+                "model": "nightfall:item/stone_sword_wild_and_ender_pearl_trim"
               },
-              "when": "more_tool_trim:ender_pearl"
+              "when": "nightfall:ender_pearl"
             },
             {
               "model": {
                 "type": "minecraft:model",
-                "model": "more_tool_trim:item/stone_sword_wild_and_experience_bottle_trim"
+                "model": "nightfall:item/stone_sword_wild_and_experience_bottle_trim"
               },
               "when": "more_tool_trim:experience_bottle"
             },

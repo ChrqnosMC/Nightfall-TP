@@ -33,6 +33,12 @@
 				"directory": "overlay_36"
 			},
 			{
+				"formats": [36,75],
+				"min_format": [36,0],
+				"max_format": [75,0],
+				"directory": "overlay_36_2"
+			},
+			{
 				"formats": [37,43],
 				"min_format": [37,0],
 				"max_format": [43,0],

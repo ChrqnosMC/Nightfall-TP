@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "better_tricky_trials:item/ominous_woodland_key"
+    "layer0": "nightfall:item/ominous_woodland_key"
   }
 }

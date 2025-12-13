@@ -39,7 +39,7 @@ jobs:
         uses: kir-antipov/mc-publish@v3.3
         with:
           modrinth-token: ${{secrets.ACCESS_TOKEN}}
-          modrinth-id: 
+          modrinth-id: BzqoQI1c
           game-version-filter: none
           name: Nightfall TP ${{env.tag}}
           version: ${{env.tag}}
